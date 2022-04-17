@@ -63,11 +63,18 @@ user.name=Almir
 8. Создание ветки с одновременным переходом в нее - `git checkout -b feature`
 9. возврат в предыдущую ветку - `git checkout - `
 
+branch1 | branch2 | branch3
+--- | --- | ---
+commit1 | commit2 | commit3
+commit11| commit22|commit33
 
 
 
 
-## 8.
+## 8. Игнорирование файлов
+*.gitignore*
+
+
 
 
 
